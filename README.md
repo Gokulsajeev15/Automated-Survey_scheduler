@@ -1,7 +1,3 @@
-Here's a comprehensive `README.md` for your Automated Survey Scheduler project that outlines everything from installation to project overview:
-
----
-
 # Automated Survey Scheduler
 
 ## Overview
@@ -165,8 +161,6 @@ The **Automated Survey Scheduler** is an AI-powered tool that automates the proc
 | Schedule       | Task scheduling | Simpler than Celery for basic needs |
 
 ---
-
-This `README.md` will guide users through setting up and running the project. Feel free to adjust the sections as needed based on your specific use case or deployment environment.
 
 
 <img width="1470" alt="Automated_scheduler" src="https://github.com/user-attachments/assets/12c5966d-b843-4760-a065-099c7fe126f2" />
